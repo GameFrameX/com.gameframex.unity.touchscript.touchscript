@@ -1,5 +1,9 @@
 # Changelog
 
+## [9.0.2](https://github.com/GameFrameX/com.gameframex.unity.touchscript.touchscript/tree/9.0.2) (2025-06-01)
+
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.touchscript.touchscript/compare/9.0.1...9.0.2)
+
 ## [9.0.1](https://github.com/GameFrameX/com.gameframex.unity.touchscript.touchscript/tree/9.0.1) (2025-05-31)
 
 [Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.touchscript.touchscript/compare/9.0.0...9.0.1)
