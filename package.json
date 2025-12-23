@@ -5,8 +5,9 @@
   "unity": "2019.4",
   "description": "unity3d resources management system.",
   "author": {
-    "name": "Touch Script",
-    "url": "https://github.com/TouchScript/TouchScript"
+    "name": "Blank",
+    "email": "alianblank@outlook.com",
+    "url": "https://gameframex.doc.alianblank.com"
   },
   "samples": [
     {
@@ -19,5 +20,14 @@
     "url": "https://github.com/gameframex/com.gameframex.unity.touchscript.touchscript.git"
   },
   "relatedPackages": {},
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "semantic-release": "^24.2.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.cnb.cool/GameFrameX/npm/-/packages/"
+  }
 }
