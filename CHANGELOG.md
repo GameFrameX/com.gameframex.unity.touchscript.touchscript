@@ -1,3 +1,10 @@
+# [9.1.0](https://github.com/gameframex/com.gameframex.unity.touchscript.touchscript/compare/9.0.2...9.1.0) (2025-12-23)
+
+
+### Features
+
+* **ci:** change ci ([5ce0b55](https://github.com/gameframex/com.gameframex.unity.touchscript.touchscript/commit/5ce0b55316ef30acfd5cca99601a6de30892160e))
+
 # Changelog
 
 ## [9.0.2](https://github.com/GameFrameX/com.gameframex.unity.touchscript.touchscript/tree/9.0.2) (2025-06-01)
